@@ -1,0 +1,282 @@
+C:\Users\aluno\Desktop\PA\PA Menu\obj\Debug\PA Menu.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\PA\PA Menu\obj\Debug\PA Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\PA\PA Menu\obj\Debug\PA_Menu.Ex01.resources
+C:\Users\aluno\Desktop\PA\PA Menu\obj\Debug\Menu.MENU.resources
+C:\Users\aluno\Desktop\PA\PA Menu\obj\Debug\PA_Menu.Properties.Resources.resources
+C:\Users\aluno\Desktop\PA\PA Menu\obj\Debug\PA Menu.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\PA\PA Menu\obj\Debug\PA Menu.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\PA\PA Menu\obj\Debug\PA_Menu.Ex02.resources
+C:\Users\aluno\Desktop\PA\PA Menu\obj\Debug\PA_Menu.Ex03.resources
+C:\Users\aluno\Desktop\PA\PA Menu\obj\Debug\PA_Menu.Ex04.resources
+C:\Users\aluno\Desktop\PA\PA Menu\obj\Debug\PA_Menu.Ex05.resources
+C:\Users\aluno\Desktop\PA\PA Menu\obj\Debug\PA_Menu.Ex06.resources
+C:\Users\aluno\Desktop\PA\PA Menu\obj\Debug\PA_Menu.Ex07.resources
+C:\Users\aluno\Desktop\PA\PA Menu\obj\Debug\PA_Menu.Ex08.resources
+C:\Users\aluno\Desktop\PA\PA Menu\bin\Debug\PA Menu.exe.config
+C:\Users\aluno\Desktop\PA\PA Menu\bin\Debug\PA Menu.exe
+C:\Users\aluno\Desktop\PA\PA Menu\bin\Debug\PA Menu.pdb
+C:\Users\aluno\Desktop\PA\PA Menu\obj\Debug\PA Menu.exe
+C:\Users\aluno\Desktop\PA\PA Menu\obj\Debug\PA Menu.pdb
+C:\Users\aluno\Desktop\PA GUSTAVO MENU\PA Menu\bin\Debug\PA Menu.exe.config
+C:\Users\aluno\Desktop\PA GUSTAVO MENU\PA Menu\bin\Debug\PA Menu.exe
+C:\Users\aluno\Desktop\PA GUSTAVO MENU\PA Menu\bin\Debug\PA Menu.pdb
+C:\Users\aluno\Desktop\PA GUSTAVO MENU\PA Menu\obj\Debug\PA Menu.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU\PA Menu\obj\Debug\PA Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU\PA Menu\obj\Debug\PA_Menu.Ex01.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU\PA Menu\obj\Debug\PA_Menu.Ex02.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU\PA Menu\obj\Debug\PA_Menu.Ex03.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU\PA Menu\obj\Debug\PA_Menu.Ex04.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU\PA Menu\obj\Debug\PA_Menu.Ex05.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU\PA Menu\obj\Debug\PA_Menu.Ex06.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU\PA Menu\obj\Debug\PA_Menu.Ex07.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU\PA Menu\obj\Debug\PA_Menu.Ex08.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU\PA Menu\obj\Debug\Menu.MENU.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU\PA Menu\obj\Debug\PA_Menu.Properties.Resources.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU\PA Menu\obj\Debug\PA Menu.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU\PA Menu\obj\Debug\PA Menu.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU\PA Menu\obj\Debug\PA Menu.exe
+C:\Users\aluno\Desktop\PA GUSTAVO MENU\PA Menu\obj\Debug\PA Menu.pdb
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v2\PA Menu\bin\Debug\PA Menu.exe.config
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v2\PA Menu\bin\Debug\PA Menu.exe
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v2\PA Menu\bin\Debug\PA Menu.pdb
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v2\PA Menu\obj\Debug\PA Menu.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v2\PA Menu\obj\Debug\PA Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v2\PA Menu\obj\Debug\PA_Menu.Ex01.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v2\PA Menu\obj\Debug\PA_Menu.Ex02.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v2\PA Menu\obj\Debug\PA_Menu.Ex03.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v2\PA Menu\obj\Debug\PA_Menu.Ex04.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v2\PA Menu\obj\Debug\PA_Menu.Ex05.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v2\PA Menu\obj\Debug\PA_Menu.Ex06.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v2\PA Menu\obj\Debug\PA_Menu.Ex07.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v2\PA Menu\obj\Debug\PA_Menu.Ex08.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v2\PA Menu\obj\Debug\Menu.MENU.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v2\PA Menu\obj\Debug\PA_Menu.Properties.Resources.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v2\PA Menu\obj\Debug\PA Menu.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v2\PA Menu\obj\Debug\PA Menu.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v2\PA Menu\obj\Debug\PA Menu.exe
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v2\PA Menu\obj\Debug\PA Menu.pdb
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v3\PA Menu\obj\Debug\PA Menu.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v3\PA Menu\obj\Debug\PA Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v3\PA Menu\obj\Debug\PA_Menu.Ex01.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v3\PA Menu\obj\Debug\PA_Menu.Ex02.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v3\PA Menu\obj\Debug\PA_Menu.Ex03.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v3\PA Menu\obj\Debug\PA_Menu.Ex04.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v3\PA Menu\obj\Debug\PA_Menu.Ex05.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v3\PA Menu\obj\Debug\PA_Menu.Ex06.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v3\PA Menu\obj\Debug\PA_Menu.Ex07.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v3\PA Menu\obj\Debug\PA_Menu.Ex08.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v3\PA Menu\obj\Debug\Menu.MENU.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v3\PA Menu\obj\Debug\PA_Menu.Properties.Resources.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v3\PA Menu\obj\Debug\PA Menu.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v3\PA Menu\obj\Debug\PA Menu.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v3\PA Menu\obj\Debug\PA Menu.exe
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v3\PA Menu\obj\Debug\PA Menu.pdb
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v3\PA Menu\bin\Debug\PA Menu.exe.config
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v3\PA Menu\bin\Debug\PA Menu.exe
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v3\PA Menu\bin\Debug\PA Menu.pdb
+C:\Users\user\Desktop\PA GUSTAVO MENU v4\PA Menu\bin\Debug\PA Menu.exe.config
+C:\Users\user\Desktop\PA GUSTAVO MENU v4\PA Menu\bin\Debug\PA Menu.exe
+C:\Users\user\Desktop\PA GUSTAVO MENU v4\PA Menu\bin\Debug\PA Menu.pdb
+C:\Users\user\Desktop\PA GUSTAVO MENU v4\PA Menu\obj\Debug\PA Menu.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PA GUSTAVO MENU v4\PA Menu\obj\Debug\PA_Menu.Ex01.resources
+C:\Users\user\Desktop\PA GUSTAVO MENU v4\PA Menu\obj\Debug\PA_Menu.Ex02.resources
+C:\Users\user\Desktop\PA GUSTAVO MENU v4\PA Menu\obj\Debug\PA_Menu.Ex03.resources
+C:\Users\user\Desktop\PA GUSTAVO MENU v4\PA Menu\obj\Debug\PA_Menu.Ex04.resources
+C:\Users\user\Desktop\PA GUSTAVO MENU v4\PA Menu\obj\Debug\PA_Menu.Ex05.resources
+C:\Users\user\Desktop\PA GUSTAVO MENU v4\PA Menu\obj\Debug\PA_Menu.Ex06.resources
+C:\Users\user\Desktop\PA GUSTAVO MENU v4\PA Menu\obj\Debug\PA_Menu.Ex07.resources
+C:\Users\user\Desktop\PA GUSTAVO MENU v4\PA Menu\obj\Debug\PA_Menu.Ex08.resources
+C:\Users\user\Desktop\PA GUSTAVO MENU v4\PA Menu\obj\Debug\Menu.MENU.resources
+C:\Users\user\Desktop\PA GUSTAVO MENU v4\PA Menu\obj\Debug\PA_Menu.Properties.Resources.resources
+C:\Users\user\Desktop\PA GUSTAVO MENU v4\PA Menu\obj\Debug\PA Menu.csproj.GenerateResource.cache
+C:\Users\user\Desktop\PA GUSTAVO MENU v4\PA Menu\obj\Debug\PA Menu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PA GUSTAVO MENU v4\PA Menu\obj\Debug\PA Menu.exe
+C:\Users\user\Desktop\PA GUSTAVO MENU v4\PA Menu\obj\Debug\PA Menu.pdb
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v5\PA Menu\bin\Debug\PA Menu.exe.config
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v5\PA Menu\bin\Debug\PA Menu.exe
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v5\PA Menu\bin\Debug\PA Menu.pdb
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v5\PA Menu\obj\Debug\PA Menu.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v5\PA Menu\obj\Debug\PA Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v5\PA Menu\obj\Debug\PA_Menu.Ex01.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v5\PA Menu\obj\Debug\PA_Menu.Ex02.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v5\PA Menu\obj\Debug\PA_Menu.Ex03.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v5\PA Menu\obj\Debug\PA_Menu.Ex04.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v5\PA Menu\obj\Debug\PA_Menu.Ex05.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v5\PA Menu\obj\Debug\PA_Menu.Ex06.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v5\PA Menu\obj\Debug\PA_Menu.Ex07.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v5\PA Menu\obj\Debug\PA_Menu.Ex08.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v5\PA Menu\obj\Debug\Menu.MENU.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v5\PA Menu\obj\Debug\PA_Menu.Properties.Resources.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v5\PA Menu\obj\Debug\PA Menu.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v5\PA Menu\obj\Debug\PA Menu.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v5\PA Menu\obj\Debug\PA Menu.exe
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v5\PA Menu\obj\Debug\PA Menu.pdb
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v6\PA Menu\bin\Debug\PA Menu.exe.config
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v6\PA Menu\bin\Debug\PA Menu.exe
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v6\PA Menu\bin\Debug\PA Menu.pdb
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v6\PA Menu\obj\Debug\PA Menu.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v6\PA Menu\obj\Debug\PA Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v6\PA Menu\obj\Debug\PA_Menu.Ex01.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v6\PA Menu\obj\Debug\PA_Menu.Ex02.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v6\PA Menu\obj\Debug\PA_Menu.Ex03.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v6\PA Menu\obj\Debug\PA_Menu.Ex04.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v6\PA Menu\obj\Debug\PA_Menu.Ex05.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v6\PA Menu\obj\Debug\PA_Menu.Ex06.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v6\PA Menu\obj\Debug\PA_Menu.Ex07.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v6\PA Menu\obj\Debug\PA_Menu.Ex08.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v6\PA Menu\obj\Debug\Menu.MENU.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v6\PA Menu\obj\Debug\PA_Menu.Properties.Resources.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v6\PA Menu\obj\Debug\PA Menu.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v6\PA Menu\obj\Debug\PA Menu.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v6\PA Menu\obj\Debug\PA Menu.exe
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v6\PA Menu\obj\Debug\PA Menu.pdb
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v7-20240619T220254Z-001\PA GUSTAVO MENU v7\PA Menu\bin\Debug\PA Menu.exe.config
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v7-20240619T220254Z-001\PA GUSTAVO MENU v7\PA Menu\bin\Debug\PA Menu.exe
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v7-20240619T220254Z-001\PA GUSTAVO MENU v7\PA Menu\bin\Debug\PA Menu.pdb
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v7-20240619T220254Z-001\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA Menu.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v7-20240619T220254Z-001\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v7-20240619T220254Z-001\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex01.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v7-20240619T220254Z-001\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex02.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v7-20240619T220254Z-001\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex03.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v7-20240619T220254Z-001\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex04.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v7-20240619T220254Z-001\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex05.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v7-20240619T220254Z-001\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex06.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v7-20240619T220254Z-001\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex07.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v7-20240619T220254Z-001\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex08.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v7-20240619T220254Z-001\PA GUSTAVO MENU v7\PA Menu\obj\Debug\Menu.MENU.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v7-20240619T220254Z-001\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Properties.Resources.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v7-20240619T220254Z-001\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA Menu.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v7-20240619T220254Z-001\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA Menu.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v7-20240619T220254Z-001\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA Menu.exe
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v7-20240619T220254Z-001\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA Menu.pdb
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v8\PA GUSTAVO MENU v7\PA Menu\bin\Debug\PA Menu.exe.config
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v8\PA GUSTAVO MENU v7\PA Menu\bin\Debug\PA Menu.exe
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v8\PA GUSTAVO MENU v7\PA Menu\bin\Debug\PA Menu.pdb
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v8\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA Menu.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v8\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v8\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex01.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v8\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex02.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v8\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex03.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v8\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex04.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v8\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex05.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v8\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex06.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v8\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex07.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v8\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex08.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v8\PA GUSTAVO MENU v7\PA Menu\obj\Debug\Menu.MENU.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v8\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Properties.Resources.resources
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v8\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA Menu.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v8\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA Menu.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v8\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA Menu.exe
+C:\Users\aluno\Desktop\PA GUSTAVO MENU v8\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA Menu.pdb
+E:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\bin\Debug\PA Menu.exe.config
+E:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\bin\Debug\PA Menu.exe
+E:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\bin\Debug\PA Menu.pdb
+E:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA Menu.csproj.AssemblyReference.cache
+E:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA Menu.csproj.SuggestedBindingRedirects.cache
+E:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex01.resources
+E:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex02.resources
+E:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex03.resources
+E:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex04.resources
+E:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex05.resources
+E:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex06.resources
+E:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex07.resources
+E:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex08.resources
+E:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\Menu.MENU.resources
+E:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Properties.Resources.resources
+E:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA Menu.csproj.GenerateResource.cache
+E:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA Menu.csproj.CoreCompileInputs.cache
+E:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA Menu.exe
+E:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA Menu.pdb
+D:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\bin\Debug\PA Menu.exe.config
+D:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\bin\Debug\PA Menu.exe
+D:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\bin\Debug\PA Menu.pdb
+D:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA Menu.csproj.AssemblyReference.cache
+D:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex01.resources
+D:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex02.resources
+D:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex03.resources
+D:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex04.resources
+D:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex05.resources
+D:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex06.resources
+D:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex07.resources
+D:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Ex08.resources
+D:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\Menu.MENU.resources
+D:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA_Menu.Properties.Resources.resources
+D:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA Menu.csproj.GenerateResource.cache
+D:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA Menu.csproj.CoreCompileInputs.cache
+D:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA Menu.exe
+D:\PA GUSTAVO EX\PA GUSTAVO MENU v9\PA GUSTAVO MENU v7\PA Menu\obj\Debug\PA Menu.pdb
+E:\PA GUSTAVO EX\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\bin\Debug\PA Menu.exe.config
+E:\PA GUSTAVO EX\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\bin\Debug\PA Menu.exe
+E:\PA GUSTAVO EX\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\bin\Debug\PA Menu.pdb
+E:\PA GUSTAVO EX\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA Menu.csproj.AssemblyReference.cache
+E:\PA GUSTAVO EX\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA Menu.csproj.SuggestedBindingRedirects.cache
+E:\PA GUSTAVO EX\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex01.resources
+E:\PA GUSTAVO EX\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex02.resources
+E:\PA GUSTAVO EX\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex03.resources
+E:\PA GUSTAVO EX\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex04.resources
+E:\PA GUSTAVO EX\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex05.resources
+E:\PA GUSTAVO EX\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex06.resources
+E:\PA GUSTAVO EX\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex07.resources
+E:\PA GUSTAVO EX\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex08.resources
+E:\PA GUSTAVO EX\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\Menu.MENU.resources
+E:\PA GUSTAVO EX\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Properties.Resources.resources
+E:\PA GUSTAVO EX\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA Menu.csproj.GenerateResource.cache
+E:\PA GUSTAVO EX\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA Menu.csproj.CoreCompileInputs.cache
+E:\PA GUSTAVO EX\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA Menu.exe
+E:\PA GUSTAVO EX\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA Menu.pdb
+E:\MENU OFICIAL MARCO PILOTO\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\bin\Debug\PA Menu.exe.config
+E:\MENU OFICIAL MARCO PILOTO\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\bin\Debug\PA Menu.exe
+E:\MENU OFICIAL MARCO PILOTO\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\bin\Debug\PA Menu.pdb
+E:\MENU OFICIAL MARCO PILOTO\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA Menu.csproj.AssemblyReference.cache
+E:\MENU OFICIAL MARCO PILOTO\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA Menu.csproj.SuggestedBindingRedirects.cache
+E:\MENU OFICIAL MARCO PILOTO\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex01.resources
+E:\MENU OFICIAL MARCO PILOTO\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex02.resources
+E:\MENU OFICIAL MARCO PILOTO\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex03.resources
+E:\MENU OFICIAL MARCO PILOTO\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex04.resources
+E:\MENU OFICIAL MARCO PILOTO\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex05.resources
+E:\MENU OFICIAL MARCO PILOTO\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex06.resources
+E:\MENU OFICIAL MARCO PILOTO\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex07.resources
+E:\MENU OFICIAL MARCO PILOTO\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex08.resources
+E:\MENU OFICIAL MARCO PILOTO\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\Menu.MENU.resources
+E:\MENU OFICIAL MARCO PILOTO\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Properties.Resources.resources
+E:\MENU OFICIAL MARCO PILOTO\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA Menu.csproj.GenerateResource.cache
+E:\MENU OFICIAL MARCO PILOTO\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA Menu.csproj.CoreCompileInputs.cache
+E:\MENU OFICIAL MARCO PILOTO\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA Menu.exe
+E:\MENU OFICIAL MARCO PILOTO\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA Menu.pdb
+E:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA Menu.csproj.AssemblyReference.cache
+E:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA Menu.csproj.SuggestedBindingRedirects.cache
+E:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex01.resources
+E:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex02.resources
+E:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex03.resources
+E:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex04.resources
+E:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex05.resources
+E:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex06.resources
+E:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex07.resources
+E:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex08.resources
+E:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\Menu.MENU.resources
+E:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Properties.Resources.resources
+E:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA Menu.csproj.GenerateResource.cache
+E:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA Menu.csproj.CoreCompileInputs.cache
+E:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA Menu.exe
+E:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA Menu.pdb
+E:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\bin\Debug\PA Menu.exe.config
+E:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\bin\Debug\PA Menu.exe
+E:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\bin\Debug\PA Menu.pdb
+D:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\bin\Debug\PA Menu.exe.config
+D:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\bin\Debug\PA Menu.exe
+D:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\bin\Debug\PA Menu.pdb
+D:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA Menu.csproj.AssemblyReference.cache
+D:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex01.resources
+D:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex02.resources
+D:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex03.resources
+D:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex04.resources
+D:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex05.resources
+D:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex06.resources
+D:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex07.resources
+D:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Ex08.resources
+D:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\Menu.MENU.resources
+D:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA_Menu.Properties.Resources.resources
+D:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA Menu.csproj.GenerateResource.cache
+D:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA Menu.csproj.CoreCompileInputs.cache
+D:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA Menu.exe
+D:\PROJETO MENU OFICIAL FERNANDO QUADROS\FERNANDO MENU OFICIAL\FERNANDO OFICIAL MENU v7\PA Menu\obj\Debug\PA Menu.pdb
